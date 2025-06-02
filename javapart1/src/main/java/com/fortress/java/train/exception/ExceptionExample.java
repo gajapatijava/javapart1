@@ -20,6 +20,7 @@ public class ExceptionExample {
 		Object o2 = new Object();
 		String s2 = (String) o2;
 		System.out.println();
+		System.out.println();
 	}
 
 	@SuppressWarnings("null")
